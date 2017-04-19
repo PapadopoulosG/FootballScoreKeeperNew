@@ -47,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
                 tvGoalA.setText(Integer.toString(teamAscore));
             }
         });
+//this is for gitHub
 
         btnAddTeamb.setOnClickListener(new View.OnClickListener() {
             @Override
